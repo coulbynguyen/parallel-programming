@@ -1,0 +1,3 @@
+#!/bin/bash
+g++ sim.cpp -o sim -lm -fopenmp
+./sim
